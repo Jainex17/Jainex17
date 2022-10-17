@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jainex
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me jainexp017@gmail.com
