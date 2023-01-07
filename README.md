@@ -25,4 +25,9 @@ Hi, my name is Jainex. I have a strong passion for IT and technology, and I enjo
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
+<br/>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Jainex17/count.svg" />
+</p>
  
