@@ -28,8 +28,6 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
 <br/>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Jainex17/count.svg" />
+<!--   <img src="https://profile-counter.glitch.me/Jainex17/count.svg" /> -->
+  <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/>
 </p>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjainex17%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+Views&edge_flat=false"/></a>
- 
