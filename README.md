@@ -26,8 +26,9 @@ Hi, my name is Jainex. I have a strong passion for IT and technology, and I enjo
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
 <br/>
+  <h3 align="center">👀 Visitors count</h3>
 <p align="center"> 
-  Visitors count<br>
+  <br>
 <!--   <img src="https://profile-counter.glitch.me/Jainex17/count.svg" /> -->
   <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/>
 </p>
