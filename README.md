@@ -25,6 +25,15 @@ Hi, my name is Jainex. I have a strong passion for IT and technology, and I enjo
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
+  <details>  
+  <summary>🏆 Github Stats</summary>
+  <br>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&locale=en&theme=dracula"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jainex17&show_icons=true&locale=en&layout=compact&theme=dracula" />
+  </p>
+ </details>
+<br/>
 <br/>
   <h3 align="center">👀 Visitors count</h3>
 <p align="center"> 
