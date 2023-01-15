@@ -1,6 +1,7 @@
-# Jainex Patel
+# Hi there I am Jainex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, my name is Jainex. I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things
+<!-- Hi, my name is Jainex. -->
+I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things
 
 ---
 
