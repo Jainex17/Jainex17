@@ -17,7 +17,6 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
   <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img alt="Github" src="https://badges.aleen42.com/src/github.svg"/>
-  <img alt="Postman API" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 
@@ -29,9 +28,9 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
   <details>  
   <summary>🏆 Github Stats</summary>
   <br>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&locale=en&theme=dracula"/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&locale=en&theme=dracula"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jainex17&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jainex17&show_icons=true&locale=en&layout=compact&theme=dracula" /> -->
   </p>
  </details>
 <br/>
