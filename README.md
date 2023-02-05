@@ -25,7 +25,7 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
-  <h1>GitHub Stats</h1>
+<h3>📊 GitHub Stats:</h3>
 <table>
   <tr>
     <td valign="top">
