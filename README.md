@@ -1,6 +1,10 @@
-# Hi there I am Jainex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h1 align="center"> Hi there I am Jainex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>
+  <br>
+<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b520fede0a06c3d727d1e81d5fb52cb1acce9432&rid=giphy.gif&ct=g" >
+</h1>
 <!-- Hi, my name is Jainex. -->
+<h3>✨ About Me:</h3>
 I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things
 
 ---
