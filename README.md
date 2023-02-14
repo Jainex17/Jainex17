@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there I am Jainex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
   <br>
-  <img src="https://user-images.githubusercontent.com/81921291/218777129-760eaec9-ea2e-4677-a275-bfc8eead2c73.png"></img>
+<!--   <img src="https://user-images.githubusercontent.com/81921291/218777129-760eaec9-ea2e-4677-a275-bfc8eead2c73.png"></img> -->
+  <img src="https://user-images.githubusercontent.com/81921291/218778030-08f046ff-d6d1-4e75-aba9-6ce8cf54014c.png"></img>
 
 </h1>
 <!-- Hi, my name is Jainex. -->
