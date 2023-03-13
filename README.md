@@ -49,7 +49,7 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
   <h3 align="center">👀 Total view</h3>
 <p align="center"> 
   <br>
-<!--   <img src="https://profile-counter.glitch.me/Jainex17/count.svg" /> -->
-  <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/>
+  <img src="https://profile-counter.glitch.me/Jainex17/count.svg" />
+<!--   <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/> -->
 <!--  <img src="https://komarev.com/ghpvc/?username=jainex17&label=Visitors&color=0e75b6&style=flat" alt="view count" /> -->
 </p>
