@@ -33,12 +33,12 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
 <h3>📊 GitHub Stats:</h3>
 <table>
   <tr>
-<!--     <td valign="top">
+    <td valign="top">
       <a href="http://www.github.com/jainex17"><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" /></a>
     </td>
     <td valign="top">  
       <a href="http://www.github.com/jainex17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td> -->
+    </td>
   </tr>
 </table>
   <a href="http://www.github.com/jainex17"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainex17&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
@@ -46,7 +46,7 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
   
 <br/>
 <br/>
-  <h3 align="center">👀 Total view</h3>
+  <h3 align="center">👀 Total Time Profile vists</h3>
 <p align="center"> 
   <br>
   <img src="https://profile-counter.glitch.me/Jainex17/count.svg" />
