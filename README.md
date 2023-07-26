@@ -10,7 +10,7 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
 
 ---
 
-<h3>🔭 Tech I use Regularly:</h3>
+<!-- <h3>🔭 Tech I use Regularly:</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -23,24 +23,27 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img alt="Github" src="https://badges.aleen42.com/src/github.svg"/>
 </p>
-
+-->
 
 <h3>📫 How to reach me:</h3>
 <p> You can reach out to me at <a href="https://www.linkedin.com/in/jainex-patel-80a1b5246/" >LinkedIn</a> 
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
-<h3>📊 GitHub Stats:</h3>
-<table>
-  <tr>
-    <td valign="top">
-      <a href="http://www.github.com/jainex17"><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" /></a>
-    </td>
-    <td valign="top">  
-      <a href="http://www.github.com/jainex17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>
+
+<details>
+  <summary><h3>📊 GitHub Stats:</h3></summary>
+    <table>
+      <tr>
+        <td valign="top">
+          <a href="http://www.github.com/jainex17"><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" /></a>
+        </td>
+        <td valign="top">  
+          <a href="http://www.github.com/jainex17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+        </td>
+      </tr>
+    </table>
+</details>
 <!--   <a href="http://www.github.com/jainex17"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainex17&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <!--   
