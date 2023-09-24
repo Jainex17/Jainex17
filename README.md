@@ -1,10 +1,9 @@
-<h1 align="center"> Hi there I am Jainex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br>
-  <br>
-<!--   <img src="https://user-images.githubusercontent.com/81921291/218778030-08f046ff-d6d1-4e75-aba9-6ce8cf54014c.png"></img> -->
 
-</h1>
-<!-- Hi, my name is Jainex. -->
+<div align="center">
+  <h1> Hi there I am Jainex</h1> 
+<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> -->
+</div>
+
 <h3>✨ About Me:</h3>
 I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things
 
@@ -30,6 +29,7 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
+---
 
 <details>
   <summary><h3>📊 GitHub Stats:</h3></summary>
@@ -54,5 +54,5 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
   <br>
   <img src="https://profile-counter.glitch.me/Jainex17/count.svg" /> -->
 <!--   <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/> -->
-<!--  <img src="https://komarev.com/ghpvc/?username=jainex17&label=Visitors&color=0e75b6&style=flat" alt="view count" /> -->
-</p>
+<!--  <img src="https://komarev.com/ghpvc/?username=jainex17&label=Visitors&color=0e75b6&style=flat" alt="view count" /> 
+</p> -->
