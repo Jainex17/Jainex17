@@ -31,28 +31,16 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
 
 ---
 
-<details>
-  <summary><h3>📊 GitHub Stats:</h3></summary>
-    <table>
-      <tr>
-        <td valign="top">
-          <a href="http://www.github.com/jainex17"><img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" /></a>
-        </td>
-        <td valign="top">  
-          <a href="http://www.github.com/jainex17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jainex17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-        </td>
-      </tr>
-    </table>
-</details>
-<!--   <a href="http://www.github.com/jainex17"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainex17&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" />
 
-<!--   
+   <!--
 <br/>
 <br/>
   <h3 align="center">👀 Total Time Profile vists</h3>
 <p align="center"> 
   <br>
-  <img src="https://profile-counter.glitch.me/Jainex17/count.svg" /> -->
-<!--   <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/> -->
-<!--  <img src="https://komarev.com/ghpvc/?username=jainex17&label=Visitors&color=0e75b6&style=flat" alt="view count" /> 
-</p> -->
+  <img src="https://profile-counter.glitch.me/Jainex17/count.svg" />
+  <img src="https://count.getloli.com/get/@jainex17?theme=rule34%22" alt="view count"/>
+<img src="https://komarev.com/ghpvc/?username=jainex17&label=Visitors&color=0e75b6&style=flat" alt="view count" /> 
+</p>
+-->
