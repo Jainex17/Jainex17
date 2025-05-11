@@ -1,11 +1,11 @@
 
-<div align="center">
+<div>
   <h1> Hi there I am Jainex</h1> 
 <!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> -->
 </div>
 
 <h3>✨ About Me:</h3>
-I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things
+I have a strong passion for IT and technology, and I enjoy learning new things in these fields. Recently, I have developed various projects, which you can see in my profile. I believe that through practical learning and hands-on experience, I can continuously improve my skills and knowledge in these field. I am excited to learn more things.
 
 ---
 
@@ -26,14 +26,15 @@ I have a strong passion for IT and technology, and I enjoy learning new things i
 
 <h3>📫 How to reach me:</h3>
 <p> You can reach out to me at <a href="https://www.linkedin.com/in/jainex-patel-80a1b5246/" >LinkedIn</a> 
-<br>
-You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
+  
+<!-- <br> -->
+<!-- You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍 -->
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" />
 
    <!--
+ <img src="https://github-readme-stats.vercel.app/api?username=jainex17&show_icons=true&theme=dark" alt="jainex's GitHub stats" />
 <br/>
 <br/>
   <h3 align="center">👀 Total Time Profile vists</h3>
